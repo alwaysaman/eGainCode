@@ -1,0 +1,16 @@
+{
+  "name": "egainstest",
+  "version": "1.0.0",
+  "description": "this is test to be delivered to egain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2"
+  }
+}
