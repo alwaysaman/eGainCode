@@ -9,7 +9,6 @@ let express = require("express");
 const bodyparser = require("body-parser");
 let config = require('./config.json');
 const jwt = require("jsonwebtoken");
-const helper = require('./helperFunctions');
 const request = require('request');
 const Promise = require('promise');
 const { json } = require("body-parser");
